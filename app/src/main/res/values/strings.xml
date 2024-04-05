@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="searchbar_hint">Search user</string>
+    <string name="username">Github Username</string>
+    <string name="not_found">User tidak ditemukan</string>
+    <string name="no_followers">Tidak ada followers</string>
+    <string name="no_following">Tidak ada following</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="following_example">%d Following</string>
+    <string name="followers_example">%d Followers</string>
+    <string name="detail_name">Nama Panjang</string>
+    <string name="detail_username">Username</string>
+    <string name="favorite_users">Favorite Users</string>
+    <string name="settings">Settings</string>
+    <string name="light_mode">Light Mode </string>
+    <string name="dark_mode">Dark Mode </string>
+    <string name="display">Display</string>
+    <string name="main_bar">Github User\'s Search</string>
+    <string name="second_bar">Favorite Users</string>
+    <string name="no_favorite">Tidak ada Favorite Users</string>
+</resources>
